@@ -82,8 +82,12 @@
 }
 
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+    left: -75px
+}
+
 .menus_items .menus_item:nth-child(3) .menus_item_child {
-    left: -10px;
+    left: -125px
 }
 
 /*黑夜霓虹灯*/
