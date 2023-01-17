@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>C++</title>
+      <link href="/2022/11/10/C++/"/>
+      <url>/2022/11/10/C++/</url>
+      
+        <content type="html"><![CDATA[<h2 id="C-学习笔记"><a href="#C-学习笔记" class="headerlink" title="C++学习笔记"></a>C++学习笔记</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据结构代码</title>
       <link href="/2022/11/10/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%BB%A3%E7%A0%81%EF%BC%88%E7%8E%8B%E9%81%93%EF%BC%89/"/>
       <url>/2022/11/10/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%BB%A3%E7%A0%81%EF%BC%88%E7%8E%8B%E9%81%93%EF%BC%89/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 学习笔记 </category>
+          <category> 数据结构 </category>
           
       </categories>
       
@@ -51,11 +76,11 @@
     
     
     <entry>
-      <title>关于</title>
+      <title>关于笔者</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<!-- GitCanlendar(github贡献图)容器 --><div id="gitZone"></div> <h2 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h2><h3 id="地址-QUST-Qingdao-Shandong-CN"><a href="#地址-QUST-Qingdao-Shandong-CN" class="headerlink" title="地址: QUST,Qingdao,Shandong,CN"></a>地址: QUST,Qingdao,Shandong,CN</h3><h3 id="QQ-654829830"><a href="#QQ-654829830" class="headerlink" title="QQ: 654829830"></a>QQ: 654829830</h3><h3 id="VX：YinghuoSUP"><a href="#VX：YinghuoSUP" class="headerlink" title="VX：YinghuoSUP"></a>VX：YinghuoSUP</h3><h3 id="Tel-15169212605"><a href="#Tel-15169212605" class="headerlink" title="Tel: 15169212605"></a>Tel: 15169212605</h3><h3 id="Mail-x68-x6f-116-x61-114-x75-121-x68-49-x32-64-103-109-x61-105-x6c-x2e-x63-x6f-x6d-OR-x36-53-x34-56-x32-57-56-51-48-64-113-x71-x2e-x63-x6f-x6d"><a href="#Mail-x68-x6f-116-x61-114-x75-121-x68-49-x32-64-103-109-x61-105-x6c-x2e-x63-x6f-x6d-OR-x36-53-x34-56-x32-57-56-51-48-64-113-x71-x2e-x63-x6f-x6d" class="headerlink" title="Mail: &#x68;&#x6f;&#116;&#x61;&#114;&#x75;&#121;&#x68;&#49;&#x32;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d; OR &#x36;&#53;&#x34;&#56;&#x32;&#57;&#56;&#51;&#48;&#64;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;"></a>Mail: <a href="mailto:&#x68;&#x6f;&#116;&#x61;&#114;&#x75;&#121;&#x68;&#49;&#x32;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#x6f;&#116;&#x61;&#114;&#x75;&#121;&#x68;&#49;&#x32;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a> OR <a href="mailto:&#x36;&#53;&#x34;&#56;&#x32;&#57;&#56;&#51;&#48;&#64;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;">&#x36;&#53;&#x34;&#56;&#x32;&#57;&#56;&#51;&#48;&#64;&#113;&#x71;&#x2e;&#x63;&#x6f;&#x6d;</a></h3>]]></content>
       
     </entry>
     
@@ -84,11 +109,22 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;}#page-header {    background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {    background: transparent !important;}#page-header::before {    background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {    background: transparent !important;}[data-theme="dark"] #page-header::before {    background: transparent !important;}/*小冰分类磁贴*//* 小冰分类分类磁铁黑夜模式适配 *//* 一般状态 */[data-theme="dark"] .magnet_link_context {    background: #1e1e1e;    color: antiquewhite;}/* 鼠标悬浮状态 */[data-theme="dark"] .magnet_link_context:hover {    background: #3ecdf1;    color: #f2f2f2;}/*字体配置*/@font-face {    /* 为载入的字体取名字(随意) */    font-family: 'myfavorite';    /* 字体文件地址(相对或者绝对路径都可以) */    src: url(/myfavorite.otf);    /* 定义加粗样式(加粗多少) */    font-weight: normal;    /* 定义字体样式(斜体/非斜体) */    font-style: normal;    /* 定义显示样式 */    font-display: block;}/* 文章双侧栏目时翻页按钮居中 */#pagination {    width: 100%;    margin: auto;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/runtime.css"/>
+      <url>/css/runtime.css</url>
+      
+        <content type="html"><![CDATA[/*电子钟字体*/@font-face {    font-family: 'UnidreamLED';    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");    font-display: swap;}div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0, 0, 0, 0.7);    font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28, 69, 218, 0.71);    animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {    position: fixed;    width: fit-content;    margin: auto;    left: 0;    right: 0;    top: 10%;    border-radius: 10px;    text-align: center;    z-index: 100;    content: attr(data-title);    font-size: 20px;    color: #fff;    padding: 10px;    background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {    background-color: rgba(18, 18, 18, 0.8);}@-moz-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2;    }    to {        box-shadow: 0 0 2px #1478d2;    }}@-webkit-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2;    }    to {        box-shadow: 0 0 2px #1478d2;    }}@-o-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2;    }    to {        box-shadow: 0 0 2px #1478d2;    }}@keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2;    }    to {        box-shadow: 0 0 2px #1478d2;    }}]]></content>
       
     </entry>
     
@@ -98,6 +134,28 @@
       <title>链接</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now = new Date; function createtime() { now.setTime(now.getTime() + 1e3); var e = new Date("10/20/2022 00:00:00"), t = Math.trunc(234e8 + (now - e) / 1e3 * 17), a = (t / 1496e5).toFixed(6), o = new Date("10/20/2022 00:00:00"), n = (now - o) / 1e3 / 60 / 60 / 24, r = Math.floor(n), i = (now - o) / 1e3 / 60 / 60 - 24 * r, s = Math.floor(i); 1 == String(s).length && (s = "0" + s); var d = (now - o) / 1e3 / 60 - 1440 * r - 60 * s, l = Math.floor(d); 1 == String(l).length && (l = "0" + l); var g = (now - o) / 1e3 - 86400 * r - 3600 * s - 60 * l, b = Math.round(g); 1 == String(b).length && (b = "0" + b); let c = ""; c = s < 18 && s >= 9 ? `<img class='boardsign' src='https://sourcebucket.s3.ladydaily.com/badge/F小屋-科研摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>` : `<img class='boardsign' src='https://sourcebucket.s3.ladydaily.com/badge/F小屋-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = c) } setInterval((() => { createtime() }), 1e3);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
