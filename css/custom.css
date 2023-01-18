@@ -1,4 +1,4 @@
-/*页面样式调节*/
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*页面样式调节*/
 :root {
     --trans-light: rgba(255, 255, 255, 0.75);
     --trans-dark: rgba(25, 25, 25, 0.6);
