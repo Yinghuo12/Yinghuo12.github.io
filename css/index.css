@@ -1379,7 +1379,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: myfavorite, -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
+  font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1510,7 +1510,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: myfavorite, -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
+  font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
 }
 .is-center {
   text-align: center;
@@ -2032,7 +2032,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: myfavorite, -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
+  font-family: -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", "Microsofei YaHei";
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
