@@ -7,7 +7,7 @@
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: $web-bg !important;
+    background: url(https://cdn.staticaly.com/gh/yinghuo12/markdown-pic@main/2023/1/1001.webp) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
