@@ -26,24 +26,24 @@ document.addEventListener("copy", function () {
 })
 
 
-/* 禁用F12按键并提醒 */
-document.onkeydown = function () {
-  if (window.event && window.event.keyCode == 123) {
-    event.keyCode = 0;
-    event.returnValue = false;
-    new Vue({
-      data:function(){
-        this.$notify({
-          title:"啊啊！你干嘛啊！",
-          message:"怎么能随随便便想扒萤火的底裤呢？坏！",
-          position: 'bottom-right',
-          offset: 50,
-          showClose: false,
-          type:"error"
-        });
-        return{visible:false}
-      }
-    })
-    return false;
-  }
-};
+// /* 禁用F12按键并提醒 */
+// document.onkeydown = function () {
+//   if (window.event && window.event.keyCode == 123) {
+//     event.keyCode = 0;
+//     event.returnValue = false;
+//     new Vue({
+//       data:function(){
+//         this.$notify({
+//           title:"啊啊！你干嘛啊！",
+//           message:"怎么能随随便便想扒萤火的底裤呢？坏！",
+//           position: 'bottom-right',
+//           offset: 50,
+//           showClose: false,
+//           type:"error"
+//         });
+//         return{visible:false}
+//       }
+//     })
+//     return false;
+//   }
+// };
