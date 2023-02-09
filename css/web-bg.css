@@ -1,0 +1,23 @@
+[data-theme="dark"] #web_bg {
+  background: url(https://cdn.staticaly.com/gh/yinghuo12/markdown-pic@main/2023/1/1.jpg);
+  background-attachment: local;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width: 800px) {
+  #web_bg {
+    background: $web-bg !important;
+    background-attachment: local !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
+  [data-theme="dark"] #web_bg {
+    background: url(https://cdn.staticaly.com/gh/yinghuo12/markdown-pic@main/2023/1/1.jpg) !important;
+    background-attachment: local !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
+}
